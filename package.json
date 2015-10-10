@@ -1,0 +1,35 @@
+{
+  "name": "assert-equal",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Assert that two values are equal",
+  "license": "MIT",
+  "repository": "bendrucker/assert-equal",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "assert",
+    "equal",
+    "strict",
+    "throw",
+    "error"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "assert-ok": "~1.0.0",
+    "print-value": "~1.0.0",
+    "simple-format": "~1.0.0"
+  }
+}

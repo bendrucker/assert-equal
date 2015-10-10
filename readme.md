@@ -2,13 +2,11 @@
 
 > Assert that two values are equal
 
-
 ## Install
 
 ```
 $ npm install --save assert-equal
 ```
-
 
 ## Usage
 

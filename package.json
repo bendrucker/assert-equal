@@ -1,7 +1,7 @@
 {
   "name": "assert-equal",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Assert that two values are equal",
   "license": "MIT",
   "repository": "bendrucker/assert-equal",

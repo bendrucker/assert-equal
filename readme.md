@@ -1,4 +1,4 @@
-# assert-equal [![Build Status](https://travis-ci.org/bendrucker/assert-equal.svg?branch=master)](https://travis-ci.org/bendrucker/assert-equal)
+# assert-equal [![Build Status](https://travis-ci.org/bendrucker/assert-equal.svg?branch=master)](https://travis-ci.org/bendrucker/assert-equal) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/assert-equal.svg)](https://greenkeeper.io/)
 
 > Assert that two values are equal
 
